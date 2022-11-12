@@ -53,3 +53,7 @@ Backend Engineer wokring in optmized process for retail's logistics.
 - [HackerRank Problem solving advance](https://www.hackerrank.com/certificates/0220e9ea732c)
 
 - [Meta HackerCup Round 2 Place 1429](https://www.facebook.com/codingcompetitions/hacker-cup/2022/certificate/847434305766074)
+
+- [Parallel, Concurrent, and Distributed Programming in Java](https://www.coursera.org/account/accomplishments/specialization/certificate/LWLAGNFVVPVV)
+
+- [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/account/accomplishments/specialization/certificate/36BKQR33QSJN)
